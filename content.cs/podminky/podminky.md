@@ -39,7 +39,7 @@ Všeobecné obchodní podmínky společnosti 4 JT s.r.o., se sídlem Valašská 
 
 ### 3. Smlouva
 
-3.1.	Smlouva mezi Poskytovatelem a Uživatelem musí obsahovat náležitosti uvedené ve vzoru Smlouvy, který je dostupný na webových stránkách Poskytovatele www.4jt.cz nebo v jeho sídle. 
+3.1.	Smlouva mezi Poskytovatelem a Uživatelem musí obsahovat náležitosti uvedené ve vzoru Smlouvy, který je dostupný na webových stránkách Poskytovatele www.4jt.eu nebo v jeho sídle. 
 
 3.2.	V případě rozporu mezi jednotlivými součástmi Smlouvy se použije následující priorita ujednání, kdy později uvedené součásti mají přednost:
 
