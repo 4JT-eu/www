@@ -70,7 +70,7 @@ enableRobotsTXT = true
   # have the theme simply not show any link
   hideUntranslated = true
   
-  disableKinds = ['rss']
+  disableKinds = ["RSS"]
 
 
 
