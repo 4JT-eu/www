@@ -5,7 +5,7 @@ defaultContentlanguage = 'cs'
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
-
+disableKinds = ["RSS"]
 # Your name. For more information on why this must be a list, see
 # https://discourse.gohugo.io/t/site-author-usage/31459/8
 [author]
@@ -43,7 +43,6 @@ enableRobotsTXT = true
       blogPath = "/cs/home" # Path to your blog section (used by RSS)
       madeWith = "[Informace o zpracovaní osobních údajů ](https://www.4jt.eu/podminky/informace/)"
 
-
 [params]
   # The description of your website
   description = "Internet v údolí a na kopci"
@@ -70,7 +69,7 @@ enableRobotsTXT = true
   # have the theme simply not show any link
   hideUntranslated = true
   
-  disableKinds = ["RSS"]
+
 
 
 
