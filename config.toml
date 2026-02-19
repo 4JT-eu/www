@@ -68,9 +68,12 @@ enableRobotsTXT = true
   # If your blog is multilingual but you haven't translated a page, this theme
   # will create a disabled link. By setting `hideUntranslated` to true, you can
   # have the theme simply not show any link
-  hideUntranslated = false
+  hideUntranslated = true
   
-  disableKinds = ["RSS"]
+  disableKinds = ['rss']
+
+
+
   
 # [social]
 # email = 'info@4jt.eu'
