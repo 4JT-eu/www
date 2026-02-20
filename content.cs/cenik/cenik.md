@@ -20,18 +20,20 @@ Bezdrátový Internet
 | --------  | -------- | 
 | Přístupová technologie | radiové připojení |
 | Rychlost stahování a odesílání (Mbps) | 50 |
-| Minimální (Mbps) | 15 |
-| Běžně dostupná (Mbps) | 30 |
-| Inzerovaná Maximální (Mbps) | 50 |
+| Minimální rychlost (Mbps) | 15 |
+| Běžně dostupná rychlost (Mbps) | 30 |
+| Inzerovaná Maximální rychlost (Mbps) | 50 |
 
 Kabelový Internet (metalické a optické vedení) 
 | Název tarifu | Internet optikou |
 | --------  | -------- | 
 | Přístupová technologie | optické připojení |
 | Rychlost stahování a odesílání (Mbps) | 200 |
-| Minimální (Mbps) | 60 |
-| Běžně dostupná (Mbps) | 120 |
-| Inzerovaná Maximální (Mbps) | 200 |
+| Minimální rychlost (Mbps) | 60 |
+| Běžně dostupná rychlost (Mbps) | 120 |
+| Inzerovaná Maximální rychlost (Mbps) | 200 |
+
+Rychlost stahování (download) je stejná jako rychlost odesílání (upload).
 
 Definice těchto pojmů se nachází ve Všeobecných obchodních podmínkách na [www.4jt.eu/podminky](http://www.4jt.eu/podminky)
 
