@@ -22,7 +22,7 @@ Bezdrátový Internet
 | Rychlost stahování a odesílání (Mbps) | 50 |
 | Minimální rychlost (Mbps) | 15 |
 | Běžně dostupná rychlost (Mbps) | 30 |
-| Inzerovaná Maximální rychlost (Mbps) | 50 |
+| Inzerovaná maximální rychlost (Mbps) | 50 |
 
 Kabelový Internet (metalické a optické vedení) 
 | Název tarifu | Internet optikou |
@@ -31,7 +31,7 @@ Kabelový Internet (metalické a optické vedení)
 | Rychlost stahování a odesílání (Mbps) | 200 |
 | Minimální rychlost (Mbps) | 60 |
 | Běžně dostupná rychlost (Mbps) | 120 |
-| Inzerovaná Maximální rychlost (Mbps) | 200 |
+| Inzerovaná maximální rychlost (Mbps) | 200 |
 
 Rychlost stahování (download) je stejná jako rychlost odesílání (upload).
 
